@@ -13,6 +13,9 @@ Myself
 ![Quote](https://img.shields.io/badge/Fav_Quote-This_may_be_a_game_but%2C_its_not_something_you_play-8700ff.svg)
 ![anime](https://img.shields.io/badge/Fav_Anime-Sword_Art_Online-8700ff.svg)
 ![music](https://img.shields.io/badge/Music-NEFFEX_fan-8700ff.svg)
+<br /> <br />
+[![Gmail](https://img.shields.io/badge/Gmail:nanotechpikachu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord:nanotechpikachu-7289DA?style=for-the-badge&logo=discord&logoColor=dark)]()
 
 <h2 align="center">
 Skills
