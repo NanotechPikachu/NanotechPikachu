@@ -47,4 +47,6 @@ Stats
 Links
 </h2>
 
-[![name](https://img.shields.io/badge/Nanotech_Wiki-4dd0e1.svg)](https://nanotech-wiki.vercel.app)
+[![wiki](https://img.shields.io/badge/Nanotech_Wiki-4dd0e1.svg)](https://nanotech-wiki.vercel.app)
+<br />
+[![gtwk](https://img.shields.io/badge/AOI_Wiki_Git-4dd0e1.svg)](https://GitHub.com/NanotechPikachu/aoi-wikis)
