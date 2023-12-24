@@ -8,11 +8,11 @@ Hello!
 Myself
 </h2>
 
-![name](https://img.shields.io/badge/Name-NanotechPikachu-4dd0e1.svg)
-![nick](https://img.shields.io/badge/Nickname-Atesh-4dd0e1.svg)
-![Quote](https://img.shields.io/badge/Fav_Quote-This_may_be_a_game_but%2C_its_not_something_you_play-4dd0e1.svg)
-![anime](https://img.shields.io/badge/Fav_Anime-Sword_Art_Online-4dd0e1.svg)
-![music](https://img.shields.io/badge/Music-NEFFEX_fan-4dd0e1.svg)
+[![name](https://img.shields.io/badge/Name-NanotechPikachu-4dd0e1.svg)](https://GitHub.com/NanotechPikachu)
+[![nick](https://img.shields.io/badge/Nickname-Atesh-4dd0e1.svg)](https://GitHub.com/NanotechPikachu)
+[![Quote](https://img.shields.io/badge/Fav_Quote-This_may_be_a_game_but%2C_its_not_something_you_play-4dd0e1.svg)](https://GitHub.com/NanotechPikachu)
+[![anime](https://img.shields.io/badge/Fav_Anime-Sword_Art_Online-4dd0e1.svg)](https://GitHub.com/NanotechPikachu)
+[![music](https://img.shields.io/badge/Music-NEFFEX_fan-4dd0e1.svg)](https://GitHub.com/NanotechPikachu)
 <br /> <br />
 [![Gmail](https://img.shields.io/badge/Gmail:nanotechpikachu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord:nanotechpikachu-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
