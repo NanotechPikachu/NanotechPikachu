@@ -47,6 +47,6 @@ Stats
 Links
 </h2>
 
-[![wiki](https://img.shields.io/badge/Nanotech_Wiki-4dd0e1.svg)](https://nanotech-wiki.vercel.app)
+[![wiki](https://img.shields.io/badge/Nanotech_Wiki-ed820e.svg)](https://nanotech-wiki.vercel.app) <<< A website made by me with many AOI custom functions and snippets.
 <br />
-[![gtwk](https://img.shields.io/badge/AOI_Wiki_Git-4dd0e1.svg)](https://GitHub.com/NanotechPikachu/aoi-wikis)
+[![gtwk](https://img.shields.io/badge/AOI_Wiki_Git-ed820e.svg)](https://GitHub.com/NanotechPikachu/aoi-wikis) <<< The GitHub counterpart of my wiki of AOIJS.
