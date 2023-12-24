@@ -20,6 +20,6 @@ Hobbies
 Stats
 </h2>
 
-![s](https://github-readme-stats.vercel.app/api/?username=NanotechPikachu&layout=gradient)
+![s](https://github-readme-stats.vercel.app/api/?username=NanotechPikachu&theme=gradient)
 ![s](https://github-readme-stats.vercel.app/api/top-langs/?username=NanotechPikachu&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
