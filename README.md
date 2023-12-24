@@ -42,3 +42,8 @@ Stats
 </h2>
 
 [![q](https://github-readme-stats.vercel.app/api/?username=NanotechPikachu\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/NanotechPikachu)
+
+<h2 align="center">
+Links
+</h2>
+[![name](https://img.shields.io/badge/Nanotech_Wiki-4dd0e1.svg)](https://nanotech-wiki.vercel.app)
