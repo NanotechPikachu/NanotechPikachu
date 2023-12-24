@@ -8,7 +8,5 @@ Hello!
 Skills
 </h2>
 
-- [![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=2000&color=0ABAB5&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=Advanced+AOI+JS+programmer;)](https://github.com/NanotechPikachu)
-- [![Hu](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=2000&color=0ABAB5&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=Web+documentation+maker;)](https://github.com/NanotechPikachu)
-- [![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=2000&color=0ABAB5&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=Basic+DiscordJS;)](https://github.com/NanotechPikachu)
-- [![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=2000&color=0ABAB5&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=Basic+JS;)](https://github.com/NanotechPikachu)
+[![skill](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=0ABAB5&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=%3E+Advanced+AOI+JS+programmer;%3E+Web+documentation+maker;%3E+Knows+basic+discord+JS;%3E+Very+basic+HTML+and+JS+user;)](https://github.com/NanotechPikachu)
+
