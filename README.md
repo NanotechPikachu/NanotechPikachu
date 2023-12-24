@@ -8,7 +8,7 @@ Hello!
 Skills
 </h2>
 
-[![skill](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=22&duration=3000&color=70CCF7&background=F8FF0000&vCenter=true&multiline=true&width=500&height=140&lines=%3E+Advanced+AOI+JS+programmer;%3E+Web+documentation+maker;%3E+Knows+basic+discord+JS;%3E+Very+basic+HTML+and+JS+user;)](https://github.com/NanotechPikachu)
+[![skill](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=20&duration=3000&color=70CCF7&background=F8FF0000&vCenter=true&multiline=true&width=500&height=140&lines=%3E+Advanced+AOI+JS+programmer;%3E+Web+documentation+maker;%3E+Knows+basic+discord+JS;%3E+Very+basic+HTML+and+JS+user;)](https://github.com/NanotechPikachu)
 
 <h2 align="center">
 Hobbies
