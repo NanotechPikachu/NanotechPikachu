@@ -9,6 +9,8 @@ Skills
 </h2>
 
 [![skill](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=20&duration=3000&color=70CCF7&background=F8FF0000&vCenter=true&multiline=true&width=500&height=140&lines=%3E+Advanced+AOI+JS+programmer;%3E+Web+documentation+maker;%3E+Knows+basic+discord+JS;%3E+Very+basic+HTML+and+JS+user;)](https://github.com/NanotechPikachu)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=py,js,astro,discord&theme=dark&perline=5)](https://github.com/NanotechPikachu)
 
 <h2 align="center">
 Hobbies
@@ -20,8 +22,8 @@ Hobbies
 Stats
 </h2>
 
-![q](https://github-readme-stats.vercel.app/api/?username=NanotechPikachu\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+[![q](https://github-readme-stats.vercel.app/api/?username=NanotechPikachu\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/NanotechPikachu)
 <br />
-![s](https://github-readme-stats.vercel.app/api/top-langs/?username=NanotechPikachu&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![s](https://github-readme-stats.vercel.app/api/top-langs/?username=NanotechPikachu&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/NanotechPikachu)
 
 
