@@ -24,6 +24,6 @@ Stats
 
 [![q](https://github-readme-stats.vercel.app/api/?username=NanotechPikachu\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/NanotechPikachu)
 <br />
-[![s](https://github-readme-stats.vercel.app/api/top-langs/?username=NanotechPikachu&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/NanotechPikachu)
+[![s](https://github-readme-stats.vercel.app/api/top-langs/?username=NanotechPikachu&theme=merko&layout=compact)](https://github.com/NanotechPikachu)
 
 
