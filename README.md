@@ -14,5 +14,5 @@ Skills
 Hobbies
 </h2>
 
-[![hobbies](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=21&color=686CF7&vCenter=true&multiline=true&random=false&width=500&height=140&lines=%3E+Likes+to+make+code+snippets+to+share.;%3E+Loves+to+read+webnovels+and+light+novels;%3E+Reading+manga%2C+manhwa%2C+manhua+too;)](https://github.com/NanotechPikachu)
+[![hobbies](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=22&color=686CF7&vCenter=true&multiline=true&random=false&width=500&height=140&lines=%3E+Likes+to+make+code+snippets+to+share.;%3E+Loves+to+read+webnovels+and+light+novels;%3E+Reading+manga%2C+manhwa%2C+manhua+too;)](https://github.com/NanotechPikachu)
 
