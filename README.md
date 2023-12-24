@@ -30,6 +30,12 @@ Hobbies
 </h2>
 
 [![hobbies](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=22&color=686CF7&vCenter=true&multiline=true&random=false&width=500&height=140&lines=%3E+Likes+to+make+code+snippets+to+share;%3E+Loves+to+read+webnovels+and+light+novels;%3E+Reading+manga%2C+manhwa%2C+manhua+too;)](https://github.com/NanotechPikachu)
+<br /> <br />
+[![nvlw](https://img.shields.io/badge/Fav_WebNovel-Nanomancer_Reborn-06373a.svg)](https://GitHub.com/NanotechPikachu)
+[![nvll](https://img.shields.io/badge/Fav_LightNovel-Sword_Art_Online-06373a.svg)](https://GitHub.com/NanotechPikachu)
+[![mnga](https://img.shields.io/badge/Fav_Manga-The_eminence_in_shadow-06373a.svg)](https://GitHub.com/NanotechPikachu)
+[![mnhua](https://img.shields.io/badge/Fav_Manhua-Tales_of_demons_and_gods-06373a.svg)](https://GitHub.com/NanotechPikachu)
+[![mnhwa](https://img.shields.io/badge/Fav_Manhwa-Solo_leveling-06373a.svg)](https://GitHub.com/NanotechPikachu)
 
 <h2 align="center">
 Stats
