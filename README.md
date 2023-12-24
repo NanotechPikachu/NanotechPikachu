@@ -5,6 +5,15 @@ Hello!
 [![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=20&duration=3000&color=0ABAB5&background=F8FF0000&vCenter=true&multiline=true&width=500&height=190&lines=%3E+Hi+I+am+NanotechPikachu;%3E+I+am+16+years+old;%3E+A+student+by+profession;%3E+Also+a+programmer+by+passion;++;%3E+Mainly+working+with+AOIJS;)](https://github.com/NanotechPikachu)
 
 <h2 align="center">
+Myself
+</h2>
+
+![name](https://img.shields.io/badge/Name-NanotechPikachu-8700ff.svg)
+![nick](https://img.shields.io/badge/Nickname-Atesh-8700ff.svg)
+![Quote](https://img.shields.io/badge/Fav_Quote-This_may_be_a_game_but%2C_its_not_something_you_play-8700ff.svg)
+![anime](https://img.shields.io/badge/Fav_Anime-Sword_Art_Online-8700ff.svg)
+
+<h2 align="center">
 Skills
 </h2>
 
@@ -16,7 +25,7 @@ Skills
 Hobbies
 </h2>
 
-[![hobbies](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=22&color=686CF7&vCenter=true&multiline=true&random=false&width=500&height=140&lines=%3E+Likes+to+make+code+snippets+to+share.;%3E+Loves+to+read+webnovels+and+light+novels;%3E+Reading+manga%2C+manhwa%2C+manhua+too;)](https://github.com/NanotechPikachu)
+[![hobbies](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=22&color=686CF7&vCenter=true&multiline=true&random=false&width=500&height=140&lines=%3E+Likes+to+make+code+snippets+to+share;%3E+Loves+to+read+webnovels+and+light+novels;%3E+Reading+manga%2C+manhwa%2C+manhua+too;)](https://github.com/NanotechPikachu)
 
 <h2 align="center">
 Stats
