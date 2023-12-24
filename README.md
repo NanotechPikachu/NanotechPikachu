@@ -15,7 +15,7 @@ Myself
 ![music](https://img.shields.io/badge/Music-NEFFEX_fan-8700ff.svg)
 <br /> <br />
 [![Gmail](https://img.shields.io/badge/Gmail:nanotechpikachu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![Discord](https://img.shields.io/badge/Discord:nanotechpikachu-7289DA?style=for-the-badge&logo=discord&logoColor=dark)]()
+[![Discord](https://img.shields.io/badge/Discord:nanotechpikachu-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
 <h2 align="center">
 Skills
