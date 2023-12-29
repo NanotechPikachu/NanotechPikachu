@@ -51,4 +51,4 @@ Links
 <br />
 [![gtwk](https://img.shields.io/badge/AOI_Wiki_Git-ed820e.svg)](https://GitHub.com/NanotechPikachu/aoi-wikis) <<< GitHub repository of AOIJS codes.
 <br />
-[![ajikan](https://img.shields.io/badge/aoi.jikan-ed820e.svg)](https://GitHub.com/NanotechPikachu/aoi-wikis) <<< A package for AOI.JS to fetch anims, manga etc info.
+[![ajikan](https://img.shields.io/badge/aoi.jikan-ed820e.svg)](https://GitHub.com/NanotechPikachu/aoi-wikis) <<< A package for AOI.JS to fetch anime, manga etc info.
