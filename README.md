@@ -47,8 +47,8 @@ Stats
 Links
 </h2>
 
-[![wiki](https://img.shields.io/badge/Nanotech_Wiki-ed820e.svg)](https://nanotech-wiki.vercel.app) <<< A website made by me with many AOI custom functions and snippets.
+[![wiki](https://img.shields.io/badge/Nanotech_Wiki-ed820e.svg)](https://nanotech-wiki.vercel.app) <- A website made by me with many AOI custom functions and snippets.
 <br />
-[![gtwk](https://img.shields.io/badge/AOI_Wiki_Git-ed820e.svg)](https://GitHub.com/NanotechPikachu/aoi-wikis) <<< GitHub repository of AOIJS codes.
+[![gtwk](https://img.shields.io/badge/AOI_Wiki_Git-ed820e.svg)](https://GitHub.com/NanotechPikachu/aoi-wikis) <- GitHub repository of AOIJS codes.
 <br />
-[![ajikan](https://img.shields.io/badge/aoi.jikan-ed820e.svg)](https://GitHub.com/NanotechPikachu/aoi-wikis) <<< A package for AOI.JS to fetch anime, manga etc info.
+[![ajikan](https://img.shields.io/badge/aoi.jikan-ed820e.svg)](https://GitHub.com/NanotechPikachu/aoi-wikis) <- A package for AOI.JS to fetch anime, manga etc info.
