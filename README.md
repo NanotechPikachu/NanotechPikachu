@@ -33,7 +33,7 @@ Hobbies
 <br /> <br />
 [![nvlw](https://img.shields.io/badge/Fav_WebNovel-Nanomancer_Reborn-06373a.svg)](https://GitHub.com/NanotechPikachu)
 [![nvll](https://img.shields.io/badge/Fav_LightNovel-Sword_Art_Online-06373a.svg)](https://GitHub.com/NanotechPikachu)
-[![mnga](https://img.shields.io/badge/Fav_Manga-The_eminence_in_shadow-06373a.svg)](https://GitHub.com/NanotechPikachu)
+[![mnga](https://img.shields.io/badge/Fav_Manga-Tomodachi_Game-06373a.svg)](https://GitHub.com/NanotechPikachu)
 [![mnhua](https://img.shields.io/badge/Fav_Manhua-Tales_of_demons_and_gods-06373a.svg)](https://GitHub.com/NanotechPikachu)
 [![mnhwa](https://img.shields.io/badge/Fav_Manhwa-Solo_leveling-06373a.svg)](https://GitHub.com/NanotechPikachu)
 
