@@ -2,7 +2,7 @@
 Hello!
 </h1>
 
-[![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=20&duration=3000&color=0ABAB5&background=F8FF0000&vCenter=true&multiline=true&width=500&height=190&lines=%3E+Hi+I+am+NanotechPikachu;%3E+I+am+17+years+old;%3E+A+student+by+profession;%3E+Also+a+programmer+by+passion;++;%3E+Mainly+working+with+AOIJS;)](https://github.com/NanotechPikachu)
+[![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=20&duration=3000&color=0ABAB5&background=F8FF0000&vCenter=true&multiline=true&width=500&height=190&lines=%3E+Hi+I+am+NanotechPikachu;%3E+I+am+17+years+old;%3E+A+student+by+profession;%3E+Also+a+programmer+by+passion;++;%3E+Mainly+working+with+NextJS;)](https://github.com/NanotechPikachu)
 
 <h2 align="center">
 Myself
@@ -21,7 +21,7 @@ Myself
 Skills
 </h2>
 
-[![skill](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=20&duration=3000&color=70CCF7&background=F8FF0000&vCenter=true&multiline=true&width=500&height=140&lines=%3E+Advanced+AOI+JS+programmer;%3E+Web+documentation+maker;%3E+Knows+basic+discord+JS;%3E+Very+basic+HTML+and+JS+user;)](https://github.com/NanotechPikachu)
+[![skill](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=20&duration=3000&color=70CCF7&background=F8FF0000&vCenter=true&multiline=true&width=500&height=140&lines=%3E+Advanced+AOI+JS+programmer;%3E+Web+documentation+maker;%3E+Knows+advanced+discord+JS;%3E+Very+basic+HTML+and+JS+user;%3E+NextJS+programmer;)](https://github.com/NanotechPikachu)
 <br /><br />
 [![My Skills](https://skillicons.dev/icons?i=py,js,astro,discord,react,next&theme=dark&perline=5)](https://github.com/NanotechPikachu)
 
